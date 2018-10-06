@@ -1,7 +1,7 @@
 {
   "name": "Content-scraper",
   "version": "1.0.0",
-  "description": "Content scraper for Shirts 4 Mike",
+  "description": "Content scraper for Shirts4Mike",
   "main": "scraper.js",
   "scripts": {
     "start": "node scraper.js"
